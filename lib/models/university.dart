@@ -23,6 +23,7 @@ class University {
 
     http.Response response = await http.get(url);
 
+
     List body = jsonDecode(response.body);
 
     List<University> universities = body.map((e) {
@@ -34,5 +35,8 @@ class University {
     }).toList();
 
     return universities;
+
+
+
   }
 }

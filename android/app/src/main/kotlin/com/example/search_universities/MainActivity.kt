@@ -1,4 +1,4 @@
-package com.example.search_universities
+package com.example.Unisearch
 
 import io.flutter.embedding.android.FlutterActivity
 

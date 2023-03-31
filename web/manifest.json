@@ -1,6 +1,6 @@
 {
-    "name": "search_universities",
-    "short_name": "search_universities",
+    "name": "Unisearch",
+    "short_name": "Unisearch",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

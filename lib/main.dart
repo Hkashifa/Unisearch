@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:search_universities/screens/home.dart';
+import 'package:Unisearch/screens/home.dart';
 
 void main() {
   runApp(const MyApp());
